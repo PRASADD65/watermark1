@@ -1,0 +1,15 @@
+{
+    "Records": [
+        {
+            "s3": {
+                "bucket": {
+                    "name": "my-watermarked-images"
+                },
+                "object": {
+                    "key": "test.jpg"
+                }
+            }
+        }
+    ]
+}
+
